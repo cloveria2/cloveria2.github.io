@@ -1,0 +1,180 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1200px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u47_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1200px;
+  height:1697px;
+}
+#u47 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1200px;
+  height:1697px;
+}
+#u47_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u48_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1123px;
+  height:103px;
+}
+#u48 {
+  border-width:0px;
+  position:absolute;
+  left:39px;
+  top:1791px;
+  width:1123px;
+  height:103px;
+}
+#u48_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u49_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  height:103px;
+}
+#u49 {
+  border-width:0px;
+  position:absolute;
+  left:897px;
+  top:1791px;
+  width:265px;
+  height:103px;
+}
+#u49_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u50_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  height:103px;
+}
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:39px;
+  top:1791px;
+  width:265px;
+  height:103px;
+}
+#u50_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1200px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u47.a {
+}
+#u47_img.a {
+}
+#u47.a {
+}
+#u48.a {
+}
+#u48_img.a {
+}
+#u48.a {
+}
+#u49.a {
+}
+#u49_img.a {
+}
+#u49.a {
+}
+#u50.a {
+}
+#u50_img.a {
+}
+#u50.a {
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1200px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u47.b {
+}
+#u47_img.b {
+}
+#u47.b {
+}
+#u48.b {
+}
+#u48_img.b {
+}
+#u48.b {
+}
+#u49.b {
+}
+#u49_img.b {
+}
+#u49.b {
+}
+#u50.b {
+}
+#u50_img.b {
+}
+#u50.b {
+}
